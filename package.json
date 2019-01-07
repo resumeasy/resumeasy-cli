@@ -1,0 +1,22 @@
+{
+  "name": "@resumeasy/cli",
+  "version": "1.0.0",
+  "description": "Create your resume in 5 minutes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resumeasy/resumeasy-cli.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "kingcc",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/resumeasy/resumeasy-cli/issues"
+  },
+  "homepage": "https://github.com/resumeasy/resumeasy-cli#readme"
+}
