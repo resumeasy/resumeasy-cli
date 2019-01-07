@@ -11,4 +11,4 @@ $ npm install @resumeasy/cli -g
 
 ### Licence
 
-GPL3<Plug>(neosnippet_expand)
+GPL3<Plug>
